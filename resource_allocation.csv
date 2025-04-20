@@ -1,0 +1,11 @@
+instance_type,vcpu,memory_gb,storage_gb,network_bandwidth_gbps,cost_per_hour
+t3.medium,2,4,20,0.5,0.0416
+t3.large,2,8,40,0.75,0.0832
+m5.large,2,8,50,0.75,0.096
+m5.xlarge,4,16,80,1.25,0.192
+c5.large,2,4,30,0.75,0.085
+c5.xlarge,4,8,60,1.25,0.17
+r5.large,2,16,40,0.75,0.126
+r5.xlarge,4,32,80,1.25,0.252
+p3.2xlarge,8,61,100,2.0,3.06
+g4dn.xlarge,4,16,125,2.5,0.526 
